@@ -3,7 +3,7 @@
 ## Who am I?
 <div style="text-align: left"> Write stuff about how fancy I am here when I have a moment </div>
 
-Contact me: [![Gmail Badge](https://img.shields.io/badge/-AustinChristianMoore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:austinchristianmoore@gmail.com)
+Contact me: [![Gmail Badge](https://img.shields.io/badge/-jwgalvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:jwgalvin@gmail.com)
 
 ## :computer: Programming Languages
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jwgalvin&layout=compact">
