@@ -14,3 +14,4 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-jwgalvin@gmail.com-c14
 * [Sweater weather](https://github.com/jwgalvin/whether_sweater)
 
 ![Joe's github stats](https://github-readme-stats.vercel.app/api?username=jwgalvin&show_icons=true&hide=[%22issues%22])
+[![Joe's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwgalvin)](https://github.com/jwgalvin/github-readme-stats)
