@@ -12,6 +12,6 @@ Contact me: [![Gmail Badge](https://img.shields.io/badge/-jwgalvin@gmail.com-c14
 * [Astrowflow frontend](https://github.com/jwgalvin/astroflow_fe)
 * [Astrowflow backend](https://github.com/T-willjr/astroflow_be)
 * [Sweater weather](https://github.com/jwgalvin/whether_sweater)
-
+* [DiverCity: An Inclusive Business Guide](https://github.com/Capstone-LGBTQ-BIPOC)
 
 [![Joe's's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwgalvin)](https://github.com/jwgalvin/github-readme-stats)
