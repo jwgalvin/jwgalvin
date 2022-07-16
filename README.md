@@ -6,7 +6,7 @@
 Contact me: [![Gmail Badge](https://img.shields.io/badge/-jwgalvin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:jwgalvin@gmail.com)
 
 ## :computer: Programming Languages
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jwgalvin&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jwgalvin&langs_count=8">
 
 ## Portfolio 
 * [Astrowflow frontend](https://github.com/jwgalvin/astroflow_fe)
