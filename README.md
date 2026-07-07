@@ -1,5 +1,5 @@
 <h1>Welcome to my page! </h1> 
-
+Most of the work I've done is for private companies so enjoy the random half finished projects and boot camp things!
 ## Who am I?
 <div style="text-align: left"> Write stuff about how fancy I am here when I have a moment </div>
 
