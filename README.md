@@ -21,7 +21,7 @@ At **Tackle.io (2022–2025)**, I worked on platform services and developer tool
 
 Most of that work lives in private company repositories. The public contribution graph has not been briefed on this arrangement.
 
-## What I'm working on now
+## Personal project I'm working on now
 
 I've retired the old bootcamp portfolio from this page. Those projects got me started; these days, my side projects involve:
 
