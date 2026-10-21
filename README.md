@@ -1,6 +1,6 @@
 # Hey, I'm Joe 👋
 
-Full-stack and platform engineer. I build backend services, cloud infrastructure, and tools that make other developers' lives easier. Occasionally I also finish a personal project.
+ I'm a software engineer. I build backend services, cloud infrastructure, and tools that make other developers' lives easier. Occasionally I also finish a personal project.
 
 ## Who am I?
 
